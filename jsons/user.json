@@ -1,0 +1,14 @@
+{
+  "wkim": {
+    "id": "wkim",
+    "password": 49,
+    "name": "Wonvin Kim",
+    "birth": "19860609"
+  },
+  "dpark": {
+    "id": "dpark",
+    "password": 49,
+    "name": "Dayoung Park",
+    "birth": "19860327"
+  }
+}

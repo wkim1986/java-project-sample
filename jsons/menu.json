@@ -1,0 +1,24 @@
+{
+  "로그인": {
+    "Class": "MemberManager",
+    "Method": "login"
+  },
+  "회원 관리": {
+    "회원 가입": {
+      "Class": "MemberManager",
+      "Method": "register"
+    },
+    "특정 회원 정보 출력하기": {
+      "Class": "MemberManager",
+      "Method": "selectMember"
+    },
+    "모든 회원 정보 출력하기": {
+      "Class": "MemberManager",
+      "Method": "selectMembers"
+    }
+  },
+  "종료": {
+    "Class": "Menu",
+    "Method": "_exit"
+  }
+}
